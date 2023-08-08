@@ -1,0 +1,6 @@
+I am a JS Alert
+You successfully clicked an alert
+I am a JS Confirm
+You clicked: Cancel
+I am a JS prompt
+You entered: Hi,I'm Anuradha

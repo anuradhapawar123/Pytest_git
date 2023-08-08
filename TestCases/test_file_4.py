@@ -21,3 +21,7 @@ class Test_arithmatic:
             assert True
         else:
             assert False
+
+
+
+# pytest -v --html=HTML reports/myreport.html --alluredir="allure-results" -n=2 TestCases/test_file_4.py
